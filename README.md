@@ -28,5 +28,7 @@ CommandStack — LIFO Linked List Stack for dispatcher action history
 
 
 How to Compile and Run
-g++ -o erds main.cpp IncidentMinHeap.cpp VehicleHashTable.cpp CityMapGraph.cpp HistoricalAVL.cpp TaskQueue.cpp CommandStack.cpp
+g++ -o erds main.cpp IncidentMinHeap.cpp 
+VehicleHashTable.cpp CityMapGraph.cpp HistoricalAVL.cpp 
+TaskQueue.cpp CommandStack.cpp
 ./erds
