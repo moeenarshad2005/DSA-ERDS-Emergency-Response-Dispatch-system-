@@ -15,10 +15,15 @@ Save and load system state using file I/O
 Data Structures
 
 IncidentMinHeap — Min-Heap to prioritize incidents by urgency 
+
 VehicleHashTable — Hash Table with Linked List chaining for O(1) vehicle lookup
+
 CityMapGraph — Adjacency List Graph to model city roads and intersections
+
 HistoricalAVL — AVL Tree to store and search resolved incident records
+
 TaskQueue — FIFO Linked List Queue for vehicle maintenance scheduling
+
 CommandStack — LIFO Linked List Stack for dispatcher action history
 
 
