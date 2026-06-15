@@ -14,7 +14,7 @@ Save and load system state using file I/O
 
 Data Structures
 
-IncidentMinHeap — Min-Heap to prioritize incidents by urgency
+IncidentMinHeap — Min-Heap to prioritize incidents by urgency 
 VehicleHashTable — Hash Table with Linked List chaining for O(1) vehicle lookup
 CityMapGraph — Adjacency List Graph to model city roads and intersections
 HistoricalAVL — AVL Tree to store and search resolved incident records
